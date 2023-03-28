@@ -2,6 +2,6 @@ package parser_test
 
 import "testing"
 
-func TestExamples(t *testing.T) {
+func TestExamples(*testing.T) {
 	ExampleReplaceTokens()
 }
